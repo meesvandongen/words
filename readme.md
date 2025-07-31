@@ -10,8 +10,17 @@ A project to create a word list for usage in various applications, such as games
 - Words are categorized by their part of speech (POS).
 - The word frequency is also recorded.
 - The word frequency is per year.
-- The program is created as a Jupyter Notebook.
+- The program is created as Jupyter Notebooks.
 - Python is installed using uv.
+
+## Project Structure
+
+This project contains two main Jupyter notebooks:
+
+1. **`dataset_documentation.ipynb`** - Documents the structure, format, and contents of the NOS Dutch news articles dataset
+2. **`word_extraction_strategy.ipynb`** - Implements the complete pipeline for extracting and processing words from the dataset
+
+Each notebook is self-contained and can be run independently.
 
 ## Dataset Documentation: NOS_NL_articles_2015_mar_2025.feather
 
