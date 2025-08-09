@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "@mvd/sqlite-mcp": {
+      "command": "bunx",
+      "args": ["@mvd/sqlite-mcp"]
+    }
+  },
+  "inputs": []
+}
